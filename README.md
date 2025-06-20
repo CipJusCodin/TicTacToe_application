@@ -88,10 +88,9 @@ TicTacToe_mad_project/
 - After every move, the app checks for winning combinations or a tie.
 - The UI updates in real-time to reflect player moves and game state.
 
-
-![WhatsApp Image 2025-06-20 at 3 39 16 PM](https://github.com/user-attachments/assets/2ef89712-19ab-48f7-ad46-09ce146f568c)
-![WhatsApp Image 2025-06-20 at 3 39 15 PM](https://github.com/user-attachments/assets/14f6b544-3efd-4837-b75a-22e6dd2d8b40)
-![WhatsApp Image 2025-06-20 at 3 39 17 PM](https://github.com/user-attachments/assets/b12c597d-db91-4501-9195-bc4bb2f9a622)
+<img src="https://github.com/user-attachments/assets/2ef89712-19ab-48f7-ad46-09ce146f568c" width="150"/>
+<img src="https://github.com/user-attachments/assets/14f6b544-3efd-4837-b75a-22e6dd2d8b40" width="150"/>
+<img src="https://github.com/user-attachments/assets/b12c597d-db91-4501-9195-bc4bb2f9a622" width="150"/>
 
 
 ## Contributing
