@@ -1,4 +1,4 @@
-# TicTacToe_mad_project
+# TicTacToe application
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-8%2B-blue" alt="Java Version">
